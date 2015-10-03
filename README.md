@@ -1,7 +1,7 @@
 Dungeon Quest
 ======
 
-![alt tag](https://raw2.github.com/igorp/dungeonquest/master/screenshot.png)
+![screenshot](http://i.imgur.com/iJugShH.png)
 
 Dungeon Quest is 2D topdown view game written in Java. You can explore dungeons with the arrow keys and collect gold, but don't get killed! For an extra challenge try getting rid of the rat by attacking it (press the space bar to do so). All of the art, music and code (apart from the java sound classes) was made by me.
 
