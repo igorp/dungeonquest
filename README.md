@@ -18,4 +18,4 @@ For sound classes I use AePlayWave which is a free Java sound library available 
 
 Oh, I've also made a map editor in which you can save .map files in which you add or remove tiles by right/left clicking. I'm thinking of making the dungeons randomly generated, so when you go out of bounds of the screen you always enter a new area. I'll probably add more enemies, traps and new weapons as well.
 
-Click [here](http://www.students.tut.fi/~podsechi/dungeon_quest.zip) to download the executable jar file.
+Click [here](http://www.students.tut.fi/~podsechi/dungeon_quest.zip) to download the executable jar file or visit the official website here: https://dungeon-quest.tumblr.com/.
